@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Eu sou Ana Cris Muniz :sparkles: 
 
-<!--
-**anacris-muniz/anacris-muniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Front-End em formação, com foco em construir interfaces funcionais, acessíveis e bem projetadas. Atualmente estudo Front-End no SENAI e faço a formação Front-End na Alura, além de um curso de UX/UI Design para aprimorar minha visão sobre experiência do usuário.
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Figma (UX/UI Design)
+
+## 📚 Em aprendizado
+
+- React e bibliotecas modernas
+- Boas práticas de acessibilidade e responsividade
+- Integração com APIs e ferramentas de desenvolvimento web
+
+## 🎯 Objetivo
+
+Atuar como desenvolvedora Front-End Junior, contribuindo para projetos que valorizam a experiência do usuário e o trabalho em equipe.
+
+
+## 📫 Contato
+
+- LinkedIn: [https://www.linkedin.com/in/ana-cris-muniz-ba27b9222]
+- E-mail: anacrisamuniz@gmail.com
+
+- ⭐ Obrigada por visitar meu perfil!
+
+
