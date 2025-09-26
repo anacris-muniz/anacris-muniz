@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center"> 💻 Tecnologias & Frameworks </h2>
+<h2 align="center">Tecnologias & Frameworks </h2>
 
 <div align="center">
     <a href="https://skillicons.dev">
