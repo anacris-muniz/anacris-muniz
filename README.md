@@ -10,11 +10,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacris-muniz&show_icons=true&theme=dark&rank_icon=none"/>
 </div>
 
----
-
-
-
----
 
 <h2 align="center">Tecnologias & Frameworks </h2>
 
@@ -26,7 +21,7 @@
 
 <br>
 
----
+
 <h2 align="center"> Conecte-se Comigo </h2>
 
 
@@ -42,7 +37,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a></p>
 </p>
----
+
 <div align="center">
     <p>Obrigada por visitar meu perfil!⭐ </p>
 </div>
