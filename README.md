@@ -1,31 +1,42 @@
-# Olá! Eu sou Ana Cris Muniz :sparkles: 
 
-Desenvolvedora Front-End em formação, com foco em construir interfaces funcionais, acessíveis e bem projetadas. Atualmente estudo Front-End no SENAI e faço a formação Front-End na Alura, além de um curso de UX/UI Design para aprimorar minha visão sobre experiência do usuário.
+<div align="center">
+    <h1> Olá! Eu sou Ana Cris👾</h1>
+</div>
+<h3 align="center">Desenvolvedora Front-End</h3>
+<br>
 
-## 💻 Tecnologias
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
-- Figma (UX/UI Design)
-
-## 📚 Em aprendizado
-
-- React e bibliotecas modernas
-- Boas práticas de acessibilidade e responsividade
-- Integração com APIs e ferramentas de desenvolvimento web
-
-## 🎯 Objetivo
-
-Atuar como desenvolvedora Front-End Junior, contribuindo para projetos que valorizam a experiência do usuário e o trabalho em equipe.
+<h2 align="center"> Conecte-se Comigo </h2>
 
 
-## 📫 Contato
+<p align="center" >
+    <a href="https://www.linkedin.com/in/ana-cris-muniz/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <p align="center" > <a href="https://www.tiktok.com/@debugana?t=ZM-903Eoa13WRA&r=1" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+    </a></p>
+    </p>
+    <p align="center" > <a href="mailto:anaemuniz03@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a></p>
+</p>
 
-- LinkedIn: [https://www.linkedin.com/in/ana-cris-muniz-ba27b9222]
-- E-mail: anacrisamuniz@gmail.com
+---
 
-- ⭐ Obrigada por visitar meu perfil!
+<h2 align="center"> 💻 Tecnologias & Frameworks </h2>
 
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,figma,c" />
+    </a>
+</div>
 
+<br>
+
+---
+
+<div align="center">
+    <p>Obrigada por visitar meu perfil!⭐ </p>
+</div>
