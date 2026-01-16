@@ -1,6 +1,6 @@
 
 <div align="center">
-    <h1> Olá! Eu sou Ana Cris👾</h1>
+    <h1> Olá, eu sou Ana Cris :) </h1>
 </div>
 <h3 align="center">Desenvolvedora Front-End</h3>
 <br>
