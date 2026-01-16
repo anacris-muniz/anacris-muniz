@@ -6,14 +6,6 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacris-muniz&layout=compact&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacris-muniz&show_icons=true&theme=dark&rank_icon=none"/>
-</div>
-
-
-<h2 align="center">Tecnologias & Frameworks </h2>
-
-<div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,figma,c" />
     </a>
